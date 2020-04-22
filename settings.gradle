@@ -1,0 +1,2 @@
+rootProject.name='PhanMemKaraoke'
+include ':app'
